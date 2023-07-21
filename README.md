@@ -18,10 +18,6 @@ Make sure you have Node.js installed on your system.
    ```
    cd Backend-Developer-Technical-Test
    ```
-3. Install the required packages:
-   ```
-   npm install
-   ```
 
 ### Run the Code
 
